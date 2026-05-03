@@ -30,3 +30,4 @@ two-stage geostatistical pipeline.
 
 ## License
 CC-BY 4.0 — free reuse with attribution.
+Data Availability: https://zenodo.org/records/19997105
