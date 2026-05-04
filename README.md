@@ -30,4 +30,5 @@ two-stage geostatistical pipeline.
 
 ## License
 CC-BY 4.0 — free reuse with attribution.
-Data Availability: https://zenodo.org/records/19997105
+## Data Availability
+USCRN Gridded Daily Climate Data (2006–2021): https://zenodo.org/records/19997105
